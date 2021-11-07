@@ -5,7 +5,11 @@
 
 <br/>
 
-<img width="48%" align="left"
-src="https://github-readme-stats.vercel.app/api?username=asharifauzan&theme=radical" />
-<img width="48%" align="right"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=asharifauzan&layout=compact&theme=radical" />
+<a href="https://github.com/asharifauzan">
+    <img width="48%" align="left"
+    src="https://github-readme-stats.vercel.app/api?username=asharifauzan&theme=radical" />
+</a>
+<a href="https://github.com/asharifauzan">
+    <img width="48%" align="right"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=asharifauzan&layout=compact&theme=radical" />
+</a>
